@@ -23,6 +23,7 @@ namespace SeleniumCS.Tests
 
             ChromeOptions options = new();
             options.AddArguments("--disable-notifications");
+            options.AddArgument("--start-maximized");
 
             driver = new ChromeDriver(path + @"\drivers\chromedriver.exe", options);
 
