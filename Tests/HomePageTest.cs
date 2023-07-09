@@ -1,4 +1,8 @@
-﻿using OpenQA.Selenium;
+﻿/// This project was created in order to complete Test Task
+/// Author: Kostiantyn Vasyliev
+/// Email: k.vasiliev32@gmail.com
+
+using OpenQA.Selenium;
 using SeleniumCS.Pages;
 using System.Net.Http.Headers;
 

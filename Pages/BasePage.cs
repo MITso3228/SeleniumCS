@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/// This project was created in order to complete Test Task
+/// Author: Kostiantyn Vasyliev
+/// Email: k.vasiliev32@gmail.com
+
 using SeleniumCS.Helpers;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;

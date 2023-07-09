@@ -1,12 +1,8 @@
-﻿using NUnit.Framework;
+﻿/// This project was created in order to complete Test Task
+/// Author: Kostiantyn Vasyliev
+/// Email: k.vasiliev32@gmail.com
+
 using SeleniumCS.Pages;
-using SeleniumCS.Helpers;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
 namespace SeleniumCS.Tests

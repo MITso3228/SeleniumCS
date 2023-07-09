@@ -1,11 +1,10 @@
-﻿using OpenQA.Selenium;
+﻿/// This project was created in order to complete Test Task
+/// Author: Kostiantyn Vasyliev
+/// Email: k.vasiliev32@gmail.com
+
+using OpenQA.Selenium;
 using SeleniumCS.Helpers;
 using System.Text.RegularExpressions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using OpenQA.Selenium.Support.UI;
 
 namespace SeleniumCS.Pages

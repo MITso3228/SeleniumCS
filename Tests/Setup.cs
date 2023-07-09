@@ -1,11 +1,9 @@
-﻿using System.Collections.Generic;
-using System.IO;
-using System.Xml.Linq;
-using NUnit.Framework;
-using NUnit.Framework.Internal;
+﻿/// This project was created in order to complete Test Task
+/// Author: Kostiantyn Vasyliev
+/// Email: k.vasiliev32@gmail.com
+
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.Events;
 using SeleniumCS.Pages;
 using SeleniumCS.Helpers;
 
