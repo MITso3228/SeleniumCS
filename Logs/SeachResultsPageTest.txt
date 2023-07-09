@@ -1,0 +1,14 @@
+
+TEST NAME: CheckProductQuantityInAllResults
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Inputed text iPhon in By.Name: search
+INFO — Clicked on By.ClassName[Contains]: search-form__submit
+INFO — Clicked on By.CssSelector: [class='button button_type_link categories-filter__toggle']
+INFO — Expanded all Subcategoties
+ERROR —   String lengths are both 6. Strings differ at index 4.
+  Expected: "514550"
+  But was:  "514549"
+  ---------------^
+
+INFO — Closed Chrome WebDriver

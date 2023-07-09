@@ -1,0 +1,8 @@
+
+TEST NAME: CheckSorting
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Inputed text Samsu in By.Name: search
+INFO — Clicked on By.ClassName[Contains]: search-form__submit
+INFO — Got price for products: 1499999 | 429999 | 269999 | 269999 | 249999 | 211999 | 209999 | 199999 | 199999 | 179999 | 169999 | 154999 | 150999 | 149999 | 145999 | 141831 | 139999 | 135999 | 129437 | 125999 | 124999 | 119999 | 119999 | 114999 | 107999 | 102999 | 99999 | 99999 | 95999 | 94999 | 93999 | 89999 | 84999 | 84999 | 81999 | 80999
+INFO — Closed Chrome WebDriver

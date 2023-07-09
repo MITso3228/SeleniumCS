@@ -1,0 +1,11 @@
+
+TEST NAME: CheckCatalogPopupNegative
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Closed Chrome WebDriver
+
+TEST NAME: CheckCatalogPopupPositive
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Clicked on By.Id: fat-menu
+INFO — Closed Chrome WebDriver

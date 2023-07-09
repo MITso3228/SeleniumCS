@@ -1,0 +1,7 @@
+
+TEST NAME: CheckSearch
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Inputed text Samsu in By.Name: search
+INFO — Got search results: samsung | samsung s23 | samsung a54 | samsung s21 | samsung a34 | samsu в категорії Монітори | samsu в категорії Навушники | samsu в категорії SSD
+INFO — Closed Chrome WebDriver

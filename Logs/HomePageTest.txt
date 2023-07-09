@@ -1,0 +1,8 @@
+
+TEST NAME: CheckCurrencySignForPromotionalOffersSection
+INFO — Initilized Chrome WebDriver
+INFO — Navigated to https://rozetka.com.ua/
+INFO — Scrolled to Акційні пропозиції
+INFO — Clicked on By.XPath: //*[contains(text(), 'Акційні пропозиції')]/..//*[contains(@class, "main-goods__show-more")]
+INFO — Got currencies for products in Акційні пропозиції: ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴ | ₴
+INFO — Closed Chrome WebDriver
