@@ -22,7 +22,7 @@ namespace SeleniumCS.Tests
             logger.Custom($"\nTEST NAME: {NUnit.Framework.TestContext.CurrentContext.Test.Name}");
 
             ChromeOptions options = new();
-            options.AddArguments("--disable-notifications");
+            options.AddArgument("--disable-notifications");
             options.AddArgument("--start-maximized");
 
             driver = new ChromeDriver(path + @"\drivers\chromedriver.exe", options);
