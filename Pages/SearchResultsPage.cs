@@ -92,11 +92,7 @@ namespace SeleniumCS.Pages
             {
                 for (int i = 0; i < sortedList.Count - 2; i++)
                 {
-                    if (sortedList[i] >= sortedList[i + 1])
-                    {
-                        continue;
-                    }
-                    else
+                    if (sortedList[i] < sortedList[i + 1])
                     {
                         return false;
                     }
@@ -105,11 +101,7 @@ namespace SeleniumCS.Pages
             {
                 for (int i = 0; i < sortedList.Count - 2; i++)
                 {
-                    if (sortedList[i] <= sortedList[i + 1])
-                    {
-                        continue;
-                    }
-                    else
+                    if (sortedList[i] > sortedList[i + 1])
                     {
                         return false;
                     }
