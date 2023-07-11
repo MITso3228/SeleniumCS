@@ -7,7 +7,6 @@ namespace SeleniumCS.Helpers
     public class LogFilesHelper
     {
         private string targetFolder = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "/Logs";
-        private string targetFile = "testLogs.txt";
         public void clearLogs(string fileName)
         {
             var files = Directory.GetFiles(targetFolder);

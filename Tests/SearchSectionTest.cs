@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace SeleniumCS.Tests
 {
-    [TestFixture, Category("Search Tests")]
+    [TestFixture, Category("Search Section Tests")]
     internal class SearchSectionTest : Setup
     {
         // 1. Type the word “Samsu” in Search input

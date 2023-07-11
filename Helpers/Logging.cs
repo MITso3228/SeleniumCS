@@ -9,6 +9,7 @@ namespace SeleniumCS.Helpers
     {
         public string logs;
         public Logging() { }
+
         public void Info(String text)
         {
             Console.WriteLine($"INFO — {text}");

@@ -22,7 +22,6 @@ namespace SeleniumCS.Pages
 
         public List<string> GetResults()
         {
-            var searchResultStart = By.CssSelector(".search-suggest__item-content.search-suggest__item-text span:not(.caption)");
             WaitAndFind(searchResults);
             var elements = Driver.FindElements(searchResults);
             List<string> array = new();

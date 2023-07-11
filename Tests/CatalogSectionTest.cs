@@ -6,7 +6,7 @@ using SeleniumCS.Pages;
 
 namespace SeleniumCS.Tests
 {
-    [TestFixture, Category("Catalog Tests")]
+    [TestFixture, Category("Catalog Section Tests")]
     public class CatalogSectionTest : Setup
     {
         // Toggle the button “Каталог” and ensure the popup is displayed.
