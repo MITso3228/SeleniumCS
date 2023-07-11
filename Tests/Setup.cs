@@ -25,7 +25,6 @@ namespace SeleniumCS.Tests
             options.AddArgument("--disable-notifications");
             options.AddArgument("--start-maximized");
 
-
             driver = new ChromeDriver(path + @"\drivers\chromedriver.exe", options);
 
             logger.Info("Initilized Chrome WebDriver");
